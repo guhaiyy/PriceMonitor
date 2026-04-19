@@ -1,0 +1,78 @@
+{
+  "targets": [
+    {
+      "name": "iPhone 15 Pro",
+      "url": "https://detail.tmall.com/item.htm?id=example1",
+      "target_price": 6999.0,
+      "platform": "淘宝",
+      "created_at": "2026-04-20T00:10:17.568681",
+      "status": "active",
+      "current_price": 359,
+      "last_checked": "2026-04-20T00:14:36.691690"
+    },
+    {
+      "name": "索尼 WH-1000XM5 耳机",
+      "url": "https://item.jd.com/example2",
+      "target_price": 1899.0,
+      "platform": "京东",
+      "created_at": "2026-04-20T00:10:17.568710",
+      "status": "active",
+      "current_price": 2095,
+      "last_checked": "2026-04-20T00:14:36.692058"
+    },
+    {
+      "name": "戴森吸尘器 V12",
+      "url": "https://detail.tmall.com/item.htm?id=example3",
+      "target_price": 2999.0,
+      "platform": "淘宝",
+      "created_at": "2026-04-20T00:10:17.568719",
+      "status": "active",
+      "current_price": 230,
+      "last_checked": "2026-04-20T00:14:36.692099"
+    },
+    {
+      "name": "Nike Air Max 270",
+      "url": "https://item.jd.com/example4",
+      "target_price": 699.0,
+      "platform": "京东",
+      "created_at": "2026-04-20T00:10:17.568726",
+      "status": "active",
+      "current_price": 1985,
+      "last_checked": "2026-04-20T00:14:36.692126"
+    },
+    {
+      "id": "target_1776615276",
+      "name": "iPhone 15 Pro",
+      "url": "https://detail.tmall.com/item.htm?id=example1",
+      "target_price": 6999.0,
+      "platform": "淘宝",
+      "current_price": 359,
+      "status": "active",
+      "created_at": "2026-04-20T00:14:36.689695",
+      "last_checked": "2026-04-20T00:14:36.692150"
+    },
+    {
+      "id": "target_1776615276",
+      "name": "索尼 WH-1000XM5",
+      "url": "https://item.jd.com/example2",
+      "target_price": 1899.0,
+      "platform": "京东",
+      "current_price": 2095,
+      "status": "active",
+      "created_at": "2026-04-20T00:14:36.689936",
+      "last_checked": "2026-04-20T00:14:36.692174"
+    },
+    {
+      "id": "target_1776615276",
+      "name": "戴森吸尘器 V12",
+      "url": "https://detail.tmall.com/item.htm?id=example3",
+      "target_price": 2999.0,
+      "platform": "淘宝",
+      "current_price": 230,
+      "status": "active",
+      "created_at": "2026-04-20T00:14:36.690852",
+      "last_checked": "2026-04-20T00:14:36.692200"
+    }
+  ],
+  "last_updated": "2026-04-20T00:14:36.692209"
+}
